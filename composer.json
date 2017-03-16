@@ -1,12 +1,11 @@
 {
 	"name": "testshope/testshope",
     	"description": "test working with composer.",
-	"minimum-stability": "dev",
     	"license": "MIT",
     	"type": "project",
 	"require": {
         "php": "^5.3.3 || ^7.0",
-        "testshope/testshope":"@dev"
+        "testshope/testshope":"1.0"
     },
     "autoload": {
         "classmap": [
