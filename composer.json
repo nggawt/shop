@@ -1,7 +1,6 @@
 {
 	"name": "testshope/testshope",
     	"description": "test working with composer.",
-	 "minimum-stability": "dev",
 	"prefer-stable": true,
     	"license": "MIT",
     	"type": "project",
